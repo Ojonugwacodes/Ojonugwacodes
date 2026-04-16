@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I’m a Software Engineer who enjoys building reliable and scalable backend systems.<br><br>💻 Backend development with Go, Node.js, TypeScript<br>🚀 Frameworks: NestJS, Express<br>🧠 Strong foundation in Python and C++<br>🗄️ Databases: MongoDB, MySQL, PostgreSQL<br>📊 Solid understanding of Data Structures & Algorithms<br>🌐 Interested in distributed systems, system design, and scalable architecture<br>⚙️ Passionate about building efficient, production-ready systems<br>📫 Reach me at: omerahrhema@gmail.com</p>
+<p align="left">I’m a Software Engineer who enjoys building reliable and scalable backend systems.<br><br>💻 Backend development with Python, Node.js, TypeScript<br>🚀 Frameworks: NestJS, Express<br>🧠 Strong foundation in C++<br>🗄️ Databases: MongoDB, MySQL, PostgreSQL<br>📊 Solid understanding of Data Structures & Algorithms<br>🌐 Interested in distributed systems, system design, and scalable architecture<br>⚙️ Passionate about building efficient, production-ready systems<br>📫 Reach me at: omerahrhema@gmail.com</p>
 
 ###
 
@@ -38,8 +38,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
