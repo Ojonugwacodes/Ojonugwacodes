@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I’m a Software Engineer who enjoys building reliable and scalable backend systems.<br><br>💻 Backend development with Python, Node.js, TypeScript<br>🚀 Frameworks: NestJS, Express<br>🧠 Strong foundation in C++<br>🗄️ Databases: MongoDB, MySQL, PostgreSQL<br>📊 Solid understanding of Data Structures & Algorithms<br>🌐 Interested in distributed systems, system design, and scalable architecture<br>⚙️ Passionate about building efficient, production-ready systems<br>📫 Reach me at: omerahrhema@gmail.com</p>
+<p align="left">I’m a Software Engineer who enjoys building reliable and scalable backend systems.<br><br>💻 Backend development with Python and Java<br>🚀 Frameworks: FastAPI, Spring Boot<br>🧠 Strong foundation in C++<br>🗄️ Databases: PostgreSQL, MongoDB, MySQL<br>📊 Solid understanding of Data Structures & Algorithms<br>🌐 Interested in distributed systems, system design, and scalable architecture<br>⚙️ Passionate about building efficient, production-ready systems<br>📫 Reach me at: omerahrhema@gmail.com</p>
 
 ###
 
@@ -38,23 +38,24 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring-boot logo"  />
+  <img width="12" />
 </div>
 
 ###
